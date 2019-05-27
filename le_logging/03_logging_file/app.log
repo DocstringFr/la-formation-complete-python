@@ -1,0 +1,5 @@
+2019-05-19 14:22:29,374 - DEBUG - La fonction a bien été exécutée
+2019-05-19 14:22:29,374 - INFO - Message d'information général
+2019-05-19 14:22:29,374 - WARNING - Attention !
+2019-05-19 14:22:29,374 - ERROR - Une erreur est arrivée
+2019-05-19 14:22:29,374 - CRITICAL - Erreur critique
