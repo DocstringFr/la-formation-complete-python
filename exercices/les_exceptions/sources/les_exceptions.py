@@ -1,1 +1,0 @@
-fichier = input("Entrez un fichier à ouvrir : ")
