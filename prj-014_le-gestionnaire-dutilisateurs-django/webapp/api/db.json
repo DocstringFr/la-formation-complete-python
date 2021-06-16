@@ -1,0 +1,22 @@
+{
+    "_default": {
+        "1": {
+            "first_name": "Patrick",
+            "last_name": "Smith",
+            "phone_number": "0123456789",
+            "address": "10 rue des champs \u00e9lys\u00e9e, Paris"
+        },
+        "2": {
+            "first_name": "John",
+            "last_name": "Smith",
+            "phone_number": "0123456789",
+            "address": "10 rue du chemin vert, Toulouse"
+        },
+        "6": {
+            "first_name": "Patrick",
+            "last_name": "Martin",
+            "phone_number": "9876543210",
+            "address": "1 rue du chemin vert,\r\n75000 Paris"
+        }
+    }
+}
