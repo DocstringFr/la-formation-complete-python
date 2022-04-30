@@ -10,7 +10,7 @@ J'ai une classe de 30 élèves
 L'addition de 10 + 5 est égal à 15
 """
 
-a = "J'ai une classe de " + 30 + " élèves"
-b = 10 + " + " + "5" + " est égal à " + 15
-c = 10 + "5"
-d = "L'addition de 10 + 5 est égal à " + 10 + 5
+a = "J'ai une classe de " + str(30) + " élèves"
+b = "10" + " + " + "5" + " est égal à " + "15"
+c = 10 + 5
+d = "L'addition de 10 + 5 est égal à " + str(10 + 5)
